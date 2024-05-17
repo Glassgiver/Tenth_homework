@@ -36,11 +36,6 @@ public class App
         System.out.println();
         System.out.println(list.isEmpty());
         list.clear();
-        System.out.println(list.isEmpty());
-
-
-        // boolean isEmpty()
-
-
+        System.out.println(list.isEmpty()); // boolean isEmpty()
     }
 }
